@@ -53,7 +53,7 @@ still there.
 | | |
 |---|---|
 | Reads both sides of the trade live | Item names, Chroma tags, and how many of each |
-| Prices them | MM2 Values or Supreme Values, your choice, kept current |
+| Prices them | MM2 Values, Supreme Values or BloxSwaps, your choice, kept current |
 | Tells you the gap | *"add 3 200 more"* — measured against the goal you picked |
 | Suggests what to put in | Or not: turn it off and it just shows the values |
 | Prices your own inventory | While the trade is open, so you can pick by reading |
