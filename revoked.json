@@ -1,0 +1,5 @@
+{
+  "note": "TradeLens revocation list. Signed; edits are rejected by the program.",
+  "payload": "eyJ2IjoxLCJhdCI6MTc5MTE0NDY1NTQzMywiaWRzIjpbXX0",
+  "sig": "6381ptTmyuypo-Fjt-jBVgce4-PJ7RFpgvZtAiJfLpZmdnm5qnep30vO-6yEQp6xQo7WeZ6KfhsDfRKDcfUdCQ"
+}
