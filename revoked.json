@@ -1,5 +1,5 @@
 {
   "note": "TradeLens revocation list. Signed; edits are rejected by the program.",
-  "payload": "eyJ2IjoxLCJhdCI6MTc5MTE0NDY1NTQzMywiaWRzIjpbXX0",
-  "sig": "6381ptTmyuypo-Fjt-jBVgce4-PJ7RFpgvZtAiJfLpZmdnm5qnep30vO-6yEQp6xQo7WeZ6KfhsDfRKDcfUdCQ"
+  "payload": "eyJ2IjoxLCJhdCI6MTc5MTE0NjM2OTkxNCwiaWRzIjpbXX0",
+  "sig": "_7CI2BKTR3C6kHzI0SzwnOqNsk4UT_KJEml7KY8v3GR4ZPT6ba-IwjyJD693wSAqkXV-YAWDW5sWRml-A0PNDQ"
 }
