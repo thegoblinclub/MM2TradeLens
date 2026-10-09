@@ -19,6 +19,11 @@ you trade.
 **It is free. It stays free.** It only asks for a key, and the key comes from
 the Discord — one message, ten seconds.
 
+
+![Both sides priced, and the verdict, while the trade is still open](docs/01-verdict.png)
+
+*Every item named and priced, both totals, and four lines telling you where you stand — value, stability, demand, and which side is trending up.*
+
 ## What it is not
 
 Not an exploit. Not a script. Not an injector. Not a hack.
@@ -58,6 +63,21 @@ still there.
 | Suggests what to put in | Or not: turn it off and it just shows the values |
 | Prices your own inventory | While the trade is open, so you can pick by reading |
 | Saves a picture of the trade | One button, already copied — paste it in Discord |
+
+
+## What it looks like
+
+![Good on value, but check the rest](docs/02-good-on-value.png)
+
+*It does not just say "you win". Up on value, down on demand — you decide with both in front of you.*
+
+![It tells you what to put in](docs/03-suggests-what-to-add.png)
+
+*Short by 80? It goes through what you own and names the item that closes the gap.*
+
+![The settings](docs/05-settings.png)
+
+*Pick your value list, pick your goal, keep your sets intact. Or turn the suggestions off and just read the numbers.*
 
 ## Questions
 
